@@ -1,0 +1,7 @@
+package com.example.users.users.repository;
+
+import com.example.users.users.entities.Aluno;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface AlunoRepository extends JpaRepository<Aluno, Long> {
+}
