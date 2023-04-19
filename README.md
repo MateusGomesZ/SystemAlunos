@@ -1,7 +1,7 @@
-#Sistema de Alunos
+# Sistema de Alunos
 Este é um sistema de gerenciamento de alunos, desenvolvido em Java com Spring Boot e Maven, utilizando o banco de dados H2.
 
-#Funcionalidades
+# Funcionalidades
 O sistema permite realizar as seguintes operações:
 
 Adicionar um aluno, informando nome, matrícula e data de nascimento
@@ -17,7 +17,7 @@ Clone o repositório para a sua máquina e, em seguida, execute o seguinte coman
 ./mvnw spring-boot:run
 O sistema estará disponível no endereço http://localhost:8080. Você pode utilizar uma ferramenta como o Postman para testar as operações disponíveis.
 
-#Tecnologias utilizadas
+# Tecnologias utilizadas
 Java 11
 Spring Boot
 Maven
